@@ -20,10 +20,10 @@
 
 ---
 
-### 🌸 Cherry Blossom
+### 🌸 Cherry Blossom 
 > Dark base with warm pink and rose accents — elegant and expressive
 
-![Cherry Blossom Theme](https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/cherry-blossom.png)
+![Cherry Blossom Theme](https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/pink-cloud.png)
 
 ---
 
@@ -36,12 +36,11 @@
 5. Open Command Palette (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`) and select your preferred variant
 
 ---
-
 ## 👥 Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/pritesh88/katanax-theme/graphs/contributors).
 
-| [![Pritesh Lad](https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/avatar.jpeg)](https://github.com/pritesh88) |
+| <a href="https://github.com/pritesh88"><img src="https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/avatar.jpeg" width="70" height="70" style="border-radius:50%" alt="Pritesh Lad"/></a> |
 | :---: |
 | [Pritesh Lad](https://github.com/pritesh88) |
 
