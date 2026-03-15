@@ -4,33 +4,39 @@
   "publisher":"priteshlad",
   "description": "KatanaX is a sleek dark theme collection for Visual Studio Code, featuring Midnight Blue, MistyWind, and Cherry Blossom themes, designed for comfortable coding and vibrant syntax highlights.",
   "version": "0.0.1",
+  "license":"MIT",
   "engines": {
-    "vscode": "^1.110.0"
+    "vscode": "^1.95.0"
   },
   "categories": ["Themes"],
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#0f172a",
     "theme": "dark"
+  }, 
+  "keywords": ["dark","theme","katana","midnight","cherry blossom"],
+  "repository": {
+     "type": "git",
+     "url":"https://github.com/pritesh88/katanax-theme"
   },
   "contributes": {
     "themes": [
-      {
-        "label": "Midnight Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Midnight Blue.json"
+        {
+        "label": "PinkCloud",
+        "uiTheme":  "vs",
+        "path":"./themes/PinkCloud.json"
       },
       {
-        "label": "Midnight Green",
-        "uiTheme":  "vs-dark",
-        "path":"./themes/Misty wind.json"
-      }
-      ,
+        "label": "MidnightBlue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MidnightBlue.json"
+      },
       {
-        "label": "Midnight Pink",
+        "label": "MistyWind",
         "uiTheme":  "vs-dark",
-        "path":"./themes/Cheery Blossom.json"
+        "path":"./themes/MistyWind.json"
       }
+     
     ]
   }
 }
