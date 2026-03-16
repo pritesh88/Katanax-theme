@@ -7,25 +7,22 @@
 ## 🎨 Themes Included
 
 ### 🌙 Midnight Blue
-> Deep navy tones with cool blue accents — perfect for late night sessions
 
-![Midnight Blue Theme](https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/midnight-blue.png)
 
----
+<img src="https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/midnight-blue.png" width="600" alt="Midnight Blue Theme"/>
+
 
 ### 🌫️ Misty Wind
-> Soft muted greys with subtle contrast — calm and easy on the eyes
 
-![Misty Wind Theme](https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/misty-wind.png)
 
----
+<img src="https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/misty-wind.png" width="600" alt="Misty Wind Theme"/>
+
+
 
 ### 🌸 Cherry Blossom 
-> Dark base with warm pink and rose accents — elegant and expressive
 
-![Cherry Blossom Theme](https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/pink-cloud.png)
 
----
+<img src="https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/pink-cloud.png" width="600" alt="Cherry Blossom Theme"/>
 
 ## 📦 Installation
 
@@ -36,14 +33,14 @@
 5. Open Command Palette (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`) and select your preferred variant
 
 ---
+
 ## 👥 Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/pritesh88/katanax-theme/graphs/contributors).
 
-| <a href="https://github.com/pritesh88"><img src="https://raw.githubusercontent.com/pritesh88/Katanax-theme/main/preview/avatar.jpeg" width="70" height="70" style="border-radius:50%" alt="Pritesh Lad"/></a> |
+| ![Pritesh Lad](https://github.com/pritesh88.png?size=70) |
 | :---: |
 | [Pritesh Lad](https://github.com/pritesh88) |
-
 ---
 
 ## 🌐 Community
